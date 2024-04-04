@@ -5,11 +5,11 @@ from lumibot.strategies.strategy import Strategy
 from lumibot.traders import Trader
 from datetime import datetime, timedelta
 from alpaca_trade_api import REST
-from finbert_utils import estimate_sentiment
+from sentimentAnalyzer import estimate_sentiment
 
 # Alpaca API credentials and the base URL for the paper trading API endpoint.
-API_KEY = "PKECKEBF1W0K500MT3VA"
-API_SECRET = "n5ScjgkSJHTtBdgEEiI0lZSOOh11QoqbXjolMzSK"
+API_KEY = "YOUR API KEY"
+API_SECRET = "YOUR API SECRET"
 BASE_URl = "https://paper-api.alpaca.markets/v2"
 
 # Configuration settings for Alpaca API; including API keys and specifying it as a paper trading account.
@@ -92,7 +92,7 @@ class MLTrader(Strategy):
 
 # Setup for backtesting the trading strategy, including start and end dates.
 start_date = datetime(2020, 1, 1)
-end_date = datetime(2023, 12, 31)
+end_date = datetime(2024, 4, 3)
 
 # Instantiating the Alpaca broker with the given configuration.
 broker = Alpaca(ALPACA_CONFIG)
