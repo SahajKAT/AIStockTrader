@@ -52,5 +52,4 @@ https://github.com/MAQ030/AIStockTrader/assets/156931518/de958284-e53f-401d-a379
 
 ### Developed By
 
-- [MAQ030](https://github.com/MAQ030)
-- [SahajKAT](https://github.com/SahajKAT)
+[SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)
