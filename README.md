@@ -50,6 +50,6 @@ This project integrates AI, machine learning, and sentiment analysis to conduct 
 
 https://github.com/MAQ030/AIStockTrader/assets/156931518/de958284-e53f-401d-a379-2273406b0294
 
-### Developed By
+## Developed By
 
 [SahajKAT](https://github.com/SahajKAT) and [MAQ030](https://github.com/MAQ030)
