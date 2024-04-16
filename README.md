@@ -17,7 +17,7 @@ This project integrates AI, machine learning, and sentiment analysis to conduct 
 1. **Clone the project**
 
     ```bash
-    https://github.com/SahajKAT/AIStockTrader.git
+    https://github.com/SahajKAT/AIStockTrader.git 
     ```
 
 2. **Go to the project directory**
